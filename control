@@ -1,0 +1,9 @@
+Package: com.tonykraft.nosiriemergency
+Name: NoSiriEmergency
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disallows Siri to automatically call 911, to prevent any accidental calls. Inspired by the “Siri 9/11 conspiracy” joke. Note: You can still call 911 with Siri by pressing the “call” button after saying 911, this simply disables its auto-call function.
+Maintainer: Tony Kraft
+Author: Tony Kraft
+Section: Tweaks
